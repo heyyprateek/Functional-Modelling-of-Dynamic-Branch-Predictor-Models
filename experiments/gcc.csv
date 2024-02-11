@@ -1,0 +1,15 @@
+gcc_trace_m7.txt:10: misprediction rate:,        26.65,%
+gcc_trace_m8.txt:10: misprediction rate:,        22.43,%
+gcc_trace_m9.txt:10: misprediction rate:,        18.49,%
+gcc_trace_m10.txt:10: misprediction rate:,       15.67,%
+gcc_trace_m11.txt:10: misprediction rate:,       13.65,%
+gcc_trace_m12.txt:10: misprediction rate:,       12.47,%
+gcc_trace_m13.txt:10: misprediction rate:,       11.72,%
+gcc_trace_m14.txt:10: misprediction rate:,       11.37,%
+gcc_trace_m15.txt:10: misprediction rate:,       11.30,%
+gcc_trace_m16.txt:10: misprediction rate:,       11.21,%
+gcc_trace_m17.txt:10: misprediction rate:,       11.19,%
+gcc_trace_m18.txt:10: misprediction rate:,       11.17,%
+gcc_trace_m19.txt:10: misprediction rate:,       11.17,%
+gcc_trace_m20.txt:10: misprediction rate:,       11.17,%
+
